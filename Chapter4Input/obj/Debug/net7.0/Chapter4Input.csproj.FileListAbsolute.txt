@@ -1,0 +1,14 @@
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\bin\Debug\net7.0\Chapter4Input.exe
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\bin\Debug\net7.0\Chapter4Input.deps.json
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\bin\Debug\net7.0\Chapter4Input.runtimeconfig.json
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\bin\Debug\net7.0\Chapter4Input.dll
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\bin\Debug\net7.0\Chapter4Input.pdb
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.AssemblyInfoInputs.cache
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.AssemblyInfo.cs
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.csproj.CoreCompileInputs.cache
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.dll
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\refint\Chapter4Input.dll
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.pdb
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\Chapter4Input.genruntimeconfig.cache
+C:\Users\HASBIYALLAH OYEBO\Documents\MGQSPRO\Chapter2-8\Chapter4Input\obj\Debug\net7.0\ref\Chapter4Input.dll

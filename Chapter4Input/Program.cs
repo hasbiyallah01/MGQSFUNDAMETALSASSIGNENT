@@ -197,6 +197,8 @@
 //}
 
 //QUESTION 8
+//void largest()
+//{
 // int[] myArray = new int [5];
 // System.Console.WriteLine("Enter number 1");
 // myArray[0] = int.Parse(Console.ReadLine());
@@ -217,8 +219,11 @@
 //     }
 // }
 // Console.WriteLine("The largest number is " + largest);
+//}
 
 //QUESTION 9
+//void sum()
+//{
 // Console.WriteLine("Enter the number of integers (n) : ");
 // int n = int.Parse(Console.ReadLine());
 // int sum = 0;
@@ -229,10 +234,13 @@
 //     sum += num;
 // }
 // Console.WriteLine($"The sum of the {n} integer is: {sum}");
+//}
 
 //QUESTION 10
+// void printRealNum(int n)
+// {
 // Console.WriteLine("Enter the number of integers (n) : ");
-// int n = int.Parse(Console.ReadLine());
+// int num = int.Parse(Console.ReadLine());
 // if(n>=1)
 // {
 //     Console.WriteLine($"Number from 1 to {n}: ");
@@ -245,21 +253,21 @@
 // {
 //     Console.WriteLine("Please enter a positive integer greater than or equal to 1");
 // }
+// }
+// printRealNum(35);
 
 //QUESTION 11
-// double current = 1;
-// double a = 0;
-// double b = 1;
-// double i = 1;
-// Console.Write($"{a} {b} ");
-// while(i < 100)
-// {
-//     current = a + b;
-//     Console.Write(current+" ");
-//     a=b;
-//     b=current;
-//     i++;
-// }
-// System.Console.Write("\nThe initial number is 100 ");
+void fibonacci(int n)
+{
+    Console.Write("Enter the num you want to sumup to:");
+    int num=int.P
+double a = 0;
+double b = 1;
+for(int i=1;i<num;i++)
+{
+
+}
+}
+fibonacci(6);
 
 
