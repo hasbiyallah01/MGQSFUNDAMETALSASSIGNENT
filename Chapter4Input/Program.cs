@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 //CHAPTER 4
 //QUESTION 1
-//void sum()
+//int sum()
 //{
 // Console.WriteLine("Enter a number");
 // int num1 = int.Parse(Console.ReadLine());
@@ -12,6 +12,7 @@
 // int num3 = int.Parse(Console.ReadLine());
 // int sum = num1 + num1 + num3;
 // Console.WriteLine($"Then sum of the three numbers is {sum}");
+//return sum;
 //}
 
 //QUESTION 2
@@ -58,7 +59,7 @@
 //}
 
 //QUESTION 5
-//void multipleOfFive()
+//int multipleOfFive()
 //{
 //Console.WriteLine("Enter a two digit integer number1");
 // int num = int.Parse(Console.ReadLine());
@@ -71,9 +72,10 @@
 //         Console.Write(num + " ");
 //  }
 // }
+//return num;
 //}
 
-//void multipleOfFive()
+//int multipleOfFive()
 //{
 // Console.WriteLine($"The sum of the {n} integer is: {sum}");
 // Console.WriteLine("Enter num1");
@@ -89,10 +91,12 @@
 //     }
 // }
 // Console.WriteLine($"There are {count} number beteen {num1} and {num2} that have remainder of 0 when divided by 5");
+//return count;
 //}
 
+
 //QUESTION 6
-//void max()
+//int max()
 //{
 // Console.WriteLine("Enter num1");
 // int num1 = int.Parse(Console.ReadLine());
@@ -100,9 +104,10 @@
 // int num2 = int.Parse(Console.ReadLine());
 // int max = num1 > num2 ? num1 : num2;
 // Console.WriteLine(max);
+//return  max;
 //}
 
-//void max()
+//int max()
 //{
 // Console.WriteLine("Enter num1");
 // int num1 = int.Parse(Console.ReadLine());
@@ -110,9 +115,10 @@
 // int num2 = int.Parse(Console.ReadLine());
 // Console.WriteLine("Greater: {0}", (num1 + num2 + Math.Abs(num1-num2)) / 2);
 // Console.WriteLine("Smaller: {0}", (num1 + num2 - Math.Abs(num1-num2)) / 2);
+//return  max;
 //}
 
-//void max()
+//int max()
 //{
 // Console.WriteLine("Enter num1");
 // int num1 = int.Parse(Console.ReadLine());
@@ -120,10 +126,11 @@
 // int num2 = int.Parse(Console.ReadLine());
 // int max = num1 - ((num1 - num2) & ((num1 - num2) >> 31));
 // Console.WriteLine(max);
+//return  max;
 //}
 
 //QUESTION 7
-//void sum()
+//int sum()
 //{
 // Console.WriteLine("Enter num1");
 // double num1 = double.Parse(Console.ReadLine());
@@ -194,10 +201,11 @@
 // {
 //     Console.WriteLine("Enter another num1");
 // }
+//return num1+num2+num3+num4+num5;
 //}
 
 //QUESTION 8
-//void largest()
+//int largest()
 //{
 // int[] myArray = new int [5];
 // System.Console.WriteLine("Enter number 1");
@@ -219,10 +227,11 @@
 //     }
 // }
 // Console.WriteLine("The largest number is " + largest);
+//return largest;
 //}
 
 //QUESTION 9
-//void sum()
+//int sum()
 //{
 // Console.WriteLine("Enter the number of integers (n) : ");
 // int n = int.Parse(Console.ReadLine());
@@ -234,6 +243,7 @@
 //     sum += num;
 // }
 // Console.WriteLine($"The sum of the {n} integer is: {sum}");
+//return sum;
 //}
 
 //QUESTION 10
