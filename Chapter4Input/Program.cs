@@ -267,7 +267,7 @@
 // printRealNum(35);
 
 //QUESTION 11
-// void fibonacci()
+// int fibonacci()
 // {
 //     Console.Write("Enter the num you want to sumup to:");
 //     int num=int.Parse(Console.ReadLine());
@@ -276,6 +276,7 @@
 //     {
 //        total+=i;
 //     }
+//  return total;
 // }
 
 
