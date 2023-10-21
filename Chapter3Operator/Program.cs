@@ -201,7 +201,7 @@
 
 
 //QUESTION 14
-//void prime()
+//bool prime()
 //{ 
 // Console.WriteLine("Enter a number (1 < n < 100");
 // double number = Convert.ToDouble(Console.ReadLine());
@@ -218,6 +218,7 @@
 // {
 //     Console.WriteLine("true");
 // }
+//return bool;
 //}
 
 
