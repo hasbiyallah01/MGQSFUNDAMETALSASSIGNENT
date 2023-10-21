@@ -257,17 +257,16 @@
 // printRealNum(35);
 
 //QUESTION 11
-void fibonacci(int n)
+void fibonacci()
 {
     Console.Write("Enter the num you want to sumup to:");
-    int num=int.P
-double a = 0;
-double b = 1;
-for(int i=1;i<num;i++)
-{
+    int num=int.Parse(Console.ReadLine());
+    int total=0;
+    for(int i=1;i<num;i++)
+    {
+       total+=i;
+    }
+}
 
-}
-}
-fibonacci(6);
 
 
